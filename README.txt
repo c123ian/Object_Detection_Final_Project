@@ -3,7 +3,7 @@ README
 *************************
 To access Android Studio
 
-The directory contains the 'gradle.build' file used to build the modified example TensorFlow provides, and the file 'DetectorActivity.java' which is the responsible of performing the detection in the app.
+The directory contains the 'gradle.build' file used to build the modified example TensorFlow provides (TFDetect), and the file 'DetectorActivity.java' which is the responsible of performing the detection in the app. 
 
 Requires TensorFlow API to be installed.
 
@@ -41,7 +41,7 @@ TFDetect:
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
 
 Dataset:
-https://github.com/udacity/self-driving-car/tree/master/annotations 
+https://github.com/udacity/self-driving-car/tree/master/annotations z
 
 generate_tfrecord.py + xml_to_csv.py Scripts:
 https://github.com/datitran/raccoon_dataset
