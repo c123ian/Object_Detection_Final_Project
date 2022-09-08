@@ -1,13 +1,11 @@
-README
 
-
-To access Android Studio
+To access Android Studio:
 
 The directory contains the 'gradle.build' file used to build the modified example TensorFlow provides (TFDetect), and the file 'DetectorActivity.java' which is the responsible of performing the detection in the app. 
 
 Requires TensorFlow API to be installed.
 
-
+-------------------------------------
 
 To access Jupyter Notebook 
 
@@ -16,6 +14,7 @@ To access Jupyter Notebook
 3. Opens at http://localhost:8888
 3. Open: object_detection_tutorial-Copy3(img).ipynb 
 
+------------------------------------
 
 Information
 
